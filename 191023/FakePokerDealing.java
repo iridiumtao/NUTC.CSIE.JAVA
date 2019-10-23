@@ -46,6 +46,9 @@ class FakePokerDealing{
 				user1[10+i] = user3[i];
 				user3[i] = temp;
 			}
+			
+			user1 = arrayRandomOrder(user1);
+			user3 = arrayRandomOrder(user3);
 
 		
 			for (Integer i = 0; i < 52; i++){
@@ -99,5 +102,16 @@ class FakePokerDealing{
 			}	
 		}
 		return arraySort;
+	}
+	static Integer[] arrayRandomOrder(Integer[] array){
+		int random1, random2, tmp;
+		for (int i = 0; i < 500; i++){
+			random1 = (int)(Math.random()*13);
+			random2 = (int)(Math.random()*13);
+			tmp = array[random2];
+			array[random2] = array[random1];
+			array[random1] = tmp;
+		}
+		return array;
 	}
 }
