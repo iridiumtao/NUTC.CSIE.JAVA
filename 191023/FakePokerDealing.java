@@ -35,7 +35,6 @@ class FakePokerDealing{
 			*/
 			
 			Integer[] user3 = new Integer[13];
-
 			user3 = arraySort(getUserCards(poker, 3));
 
 			Integer[] user1 = new Integer[13];
@@ -43,9 +42,9 @@ class FakePokerDealing{
 
 			for (int i = 0; i < 3; i++){
 				int temp;
-				temp = user3[10+i];
-				user3[10+i] = user1[i];
-				user1[i] = temp;
+				temp = user1[10+i];
+				user1[10+i] = user3[i];
+				user3[i] = temp;
 			}
 
 		
