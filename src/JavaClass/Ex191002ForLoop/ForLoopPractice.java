@@ -1,6 +1,5 @@
-package JavaClass.ExForLoop191002;
+package JavaClass.Ex191002ForLoop;
 
-import java.math.BigInteger;
 import java.util.Scanner;
 
 public class ForLoopPractice {

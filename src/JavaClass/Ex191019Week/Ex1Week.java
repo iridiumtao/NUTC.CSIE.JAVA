@@ -1,4 +1,4 @@
-package JavaClass.ExWeek191019;
+package JavaClass.Ex191019Week;
 
 import java.util.Scanner;
 

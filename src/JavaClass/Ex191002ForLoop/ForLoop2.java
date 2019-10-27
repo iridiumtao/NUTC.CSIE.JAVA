@@ -1,4 +1,4 @@
-package JavaClass.ExForLoop191002;
+package JavaClass.Ex191002ForLoop;
 
 public class ForLoop2 {
     public static void main(String[] args) {
