@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ea7b3b-8407-45fd-9783-5da62332f72a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NUTC.CSIC.JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NUTC.CSIC.JAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/191023/FakePokerDealing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/191023/Result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/191023/Result2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/ForFun/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/ForFun/pi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/JavaClass/ExForLoop191002/ForLoop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/JavaClass/ExForLoop191002/ForLoop3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/JavaClass/ExForLoop191002/ForLoopPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/JavaClass/ExWeek191019/Ex1Week.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/JavaClass/ExWeek191019/Ex2Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/JavaClass/ExWeek191019/Ex3Year.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/META-INF/programming_class.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/Math/DiscreteMathematicsEuclideanAlgorithmTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/Math/DiscreteMathematicsPowerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/programming_class/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/ExForLoop191002/ForLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass/Ex191002ForLoop/ForLoop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/ExForLoop191002/ForLoop3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass/Ex191002ForLoop/ForLoop3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/ExForLoop191002/ForLoopPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass/Ex191002ForLoop/ForLoopPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/ExWeek191019/Ex1Week.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex1Week.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/ExWeek191019/Ex2Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex2Month.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/ExWeek191019/Ex3Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex3Year.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/FakePokerDealing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/Result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/Result2.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/FakePokerDealing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
+            <state relative-caret-position="293">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex1Week.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex3Year.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex1Week.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -93,6 +80,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/NUTC.CSIC.JAVA.iml" />
+        <option value="$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/FakePokerDealing.java" />
       </list>
     </option>
   </component>
@@ -140,6 +128,13 @@
               <item name="NUTC.CSIC.JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex191002ForLoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NUTC.CSIC.JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NUTC.CSIC.JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaClass" type="462c0819:PsiDirectoryNode" />
               <item name="Ex191019Week" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex1Week">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Ex1Week" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -203,6 +198,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex190918GuessANumber.Main" />
+      <module name="NUTC.CSIC.JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass.Ex190918GuessANumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -223,9 +233,11 @@
       <item itemvalue="Application.pi" />
       <item itemvalue="Application.FakePokerDealing" />
       <item itemvalue="Application.Ex1Week" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Ex1Week" />
         <item itemvalue="Application.FakePokerDealing" />
       </list>
@@ -242,6 +254,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572111217377</updated>
     </task>
+    <task id="LOCAL-00001" summary="Migrate compete&#10;committed from git.">
+      <created>1572158660302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572158660302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -278,6 +298,10 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Migrate compete&#10;committed from git." />
+    <option name="LAST_COMMIT_MESSAGE" value="Migrate compete&#10;committed from git." />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -308,20 +332,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/FakePokerDealing.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex1Week.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex1Week.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex3Year.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/FakePokerDealing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
