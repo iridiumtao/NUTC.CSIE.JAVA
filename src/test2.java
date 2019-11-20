@@ -20,5 +20,24 @@ public class test2 {
         message.forEach(word -> System.out.println(StringUtils.capitalize(word)));
 
         System.out.println();
+
+
+        for (int i = 0; i < 35; i++) {
+            if (i % 10 == 1){
+                switch (i){
+                    case 11:
+                        System.out.println("11");
+                        break;
+                    case 21:
+                        System.out.println("21");
+                        break;
+                    case 31:
+                        System.out.println("31");
+                        break;
+                    default:
+                        System.out.println();
+                }
+            }
+        }
     }
 }
