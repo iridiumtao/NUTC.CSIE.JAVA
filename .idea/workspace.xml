@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ea7b3b-8407-45fd-9783-5da62332f72a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NUTC.CSIC.JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NUTC.CSIE.JAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex191120ClassConception2/Ex1CSphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex191120ClassConception2/Ex2CRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex191120ClassConception2/Ex3CCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,15 +50,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test2">
-    <configuration name="Ex2CBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Ex3CCount">
+    <configuration name="Ex1CSphere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex191113ClassConception.Ex2CBox" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex191120ClassConception2.Ex1CSphere" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClass.Ex191113ClassConception.*" />
+          <option name="PATTERN" value="JavaClass.Ex191120ClassConception2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,14 +66,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3CCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex2CRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex191113ClassConception.Ex3CCalculator" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex191120ClassConception2.Ex2CRectangle" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClass.Ex191113ClassConception.*" />
+          <option name="PATTERN" value="JavaClass.Ex191120ClassConception2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3CCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex191120ClassConception2.Ex3CCount" />
+      <module name="NUTC.CSIE.JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass.Ex191120ClassConception2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,15 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="12" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test1" />
-      <module name="NUTC.CSIE.JAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -132,19 +138,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.pi" />
-      <item itemvalue="Application.test1" />
-      <item itemvalue="Application.Ex2CBox" />
       <item itemvalue="Application.test2" />
-      <item itemvalue="Application.Ex3CCalculator" />
       <item itemvalue="Application.Ex4CCircle" />
+      <item itemvalue="Application.Ex1CSphere" />
+      <item itemvalue="Application.Ex2CRectangle" />
+      <item itemvalue="Application.Ex3CCount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex3CCount" />
+        <item itemvalue="Application.Ex2CRectangle" />
+        <item itemvalue="Application.Ex1CSphere" />
         <item itemvalue="Application.test2" />
         <item itemvalue="Application.Ex4CCircle" />
-        <item itemvalue="Application.Ex3CCalculator" />
-        <item itemvalue="Application.Ex2CBox" />
-        <item itemvalue="Application.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573617622581</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="191120 Project rename">
+      <created>1574210140863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574210140863</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +221,7 @@
     <MESSAGE value="Migrate compete&#10;Forget to git some files." />
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="191113" />
-    <option name="LAST_COMMIT_MESSAGE" value="191113" />
+    <MESSAGE value="191120 Project rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="191120 Project rename" />
   </component>
 </project>
