@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ea7b3b-8407-45fd-9783-5da62332f72a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200226AbstractClassAndInterface/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200226AbstractClassAndInterface/Ex2ClassExtendAndImplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200226AbstractClassAndInterface/Ex3MoreInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForFun/untitled3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200304Package/Ex1CBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200304Package/Ex1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200304Package/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200304Package/Ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191127ClassConception3/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClass/Ex191127ClassConception3/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +45,17 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Ex3MoreInterface">
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Ex3">
+    <configuration name="Ex1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200226AbstractClassAndInterface.Ex1" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200304Package.Ex1Main" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClass.Ex200226AbstractClassAndInterface.*" />
+          <option name="PATTERN" value="JavaClass.Ex200304Package.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,14 +63,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200226AbstractClassAndInterface.Ex2" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200304Package.Ex2" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClass.Ex200226AbstractClassAndInterface.*" />
+          <option name="PATTERN" value="JavaClass.Ex200304Package.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,14 +78,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2ClassExtendAndImplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200226AbstractClassAndInterface.Ex2ClassExtendAndImplement" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200304Package.Ex3" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClass.Ex200226AbstractClassAndInterface.*" />
+          <option name="PATTERN" value="JavaClass.Ex200304Package.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,30 +124,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="untitled3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="ForFun.untitled3" />
       <module name="NUTC.CSIE.JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForFun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex1" />
-      <item itemvalue="Application.Ex2 (1)" />
-      <item itemvalue="Application.Ex2ClassExtendAndImplement" />
+      <item itemvalue="Application.Ex1Main" />
+      <item itemvalue="Application.Ex2" />
       <item itemvalue="Application.Ex3MoreInterface" />
+      <item itemvalue="Application.Ex3" />
       <item itemvalue="Application.pi" />
-      <item itemvalue="Application.test2" />
+      <item itemvalue="Application.untitled3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Ex1Main" />
+        <item itemvalue="Application.untitled3" />
         <item itemvalue="Application.Ex3MoreInterface" />
-        <item itemvalue="Application.Ex2ClassExtendAndImplement" />
-        <item itemvalue="Application.Ex2 (1)" />
-        <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574826173366</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="200226 course">
+      <created>1582709874475</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582709874475</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +248,8 @@
     <MESSAGE value="191120 Project rename" />
     <MESSAGE value="191120 course" />
     <MESSAGE value="191127 course" />
-    <option name="LAST_COMMIT_MESSAGE" value="191127 course" />
+    <MESSAGE value="200226 course" />
+    <option name="LAST_COMMIT_MESSAGE" value="200226 course" />
   </component>
   <component name="WindowStateProjectService">
     <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1582690032086">
@@ -247,25 +261,45 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="528" y="236" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.956@0.23.1680.956" timestamp="1582677939742" />
-    <state width="459" height="449" key="GridCell.Tab.0.bottom" timestamp="1582690051535">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="436" y="28" width="1154" height="972" key="CommitChangelistDialog2" timestamp="1582709874156">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="436" y="28" width="1154" height="972" key="CommitChangelistDialog2/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1582709874156" />
+    <state width="1440" height="200" key="GridCell.Tab.0.bottom" timestamp="1583319434045">
+      <screen x="0" y="23" width="1920" height="984" />
     </state>
     <state width="459" height="449" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582690051535" />
     <state width="459" height="449" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1582684248437" />
-    <state width="459" height="449" key="GridCell.Tab.0.center" timestamp="1582690051534">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1440" height="200" key="GridCell.Tab.0.bottom/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1582991190470" />
+    <state width="1440" height="200" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1583319434045" />
+    <state width="1440" height="200" key="GridCell.Tab.0.center" timestamp="1583319434044">
+      <screen x="0" y="23" width="1920" height="984" />
     </state>
     <state width="459" height="449" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582690051534" />
     <state width="459" height="449" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1582684248436" />
-    <state width="459" height="449" key="GridCell.Tab.0.left" timestamp="1582690051533">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1440" height="200" key="GridCell.Tab.0.center/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1582991190468" />
+    <state width="1440" height="200" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1583319434044" />
+    <state width="1440" height="200" key="GridCell.Tab.0.left" timestamp="1583319434044">
+      <screen x="0" y="23" width="1920" height="984" />
     </state>
     <state width="459" height="449" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582690051533" />
     <state width="459" height="449" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1582684248434" />
-    <state width="459" height="449" key="GridCell.Tab.0.right" timestamp="1582690051534">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1440" height="200" key="GridCell.Tab.0.left/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1582991190467" />
+    <state width="1440" height="200" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1583319434044" />
+    <state width="1440" height="200" key="GridCell.Tab.0.right" timestamp="1583319434045">
+      <screen x="0" y="23" width="1920" height="984" />
     </state>
     <state width="459" height="449" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582690051534" />
     <state width="459" height="449" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1582684248437" />
+    <state width="1440" height="200" key="GridCell.Tab.0.right/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1582991190469" />
+    <state width="1440" height="200" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1583319434045" />
+    <state x="297" y="95" key="SettingsEditor" timestamp="1583321982481">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state x="297" y="95" key="SettingsEditor/0.23.1920.984@0.23.1920.984" timestamp="1583321982481" />
+    <state x="509" y="625" width="647" height="673" key="dock-window-1" timestamp="1583308918714">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state x="509" y="625" width="647" height="673" key="dock-window-1/0.23.1920.984@0.23.1920.984" timestamp="1583308918714" />
   </component>
 </project>
