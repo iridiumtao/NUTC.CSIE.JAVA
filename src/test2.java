@@ -8,7 +8,14 @@ public class test2 {
     public static void main(String[] args) {
         //this is a test for Lambda expression and Method References
 
-        String str = "G1O2G1L1E1";
-        System.out.println(Integer.parseInt(str));
+        int max = -1*Integer.MIN_VALUE;
+        max+=Integer.MIN_VALUE*10;
+
+        long bigNum = Long.MAX_VALUE;
+
+        System.out.println(max);
+
+
+        System.out.println(bigNum%(long)Integer.MIN_VALUE);
     }
 }
