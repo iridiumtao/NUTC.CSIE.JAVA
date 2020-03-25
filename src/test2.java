@@ -1,21 +1,26 @@
 import java.util.Arrays;
 import java.util.List;
+import java.util.Scanner;
 
 import org.apache.commons.lang3.StringUtils;
 
 
 public class test2 {
     public static void main(String[] args) {
-        //this is a test for Lambda expression and Method References
+        // write your code here
+        Scanner scanner = new Scanner(System.in);
 
-        int max = -1*Integer.MIN_VALUE;
-        max+=Integer.MIN_VALUE*10;
+        double M = scanner.nextInt();
+        int P = scanner.nextInt();
+        int K = scanner.nextInt();
+        int count = 0;
 
-        long bigNum = Long.MAX_VALUE;
+        while (M < K) {
+            M *= 1 + (P / 100.0);
+            count++;
+            System.out.println(M);
+        }
 
-        System.out.println(max);
-
-
-        System.out.println(bigNum%(long)Integer.MIN_VALUE);
+        System.out.println(count);
     }
 }

@@ -1,0 +1,3 @@
+/Users/jerry960331/AndroidStudioProjects/NUTC.CSIE.JAVA/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jerry960331/AndroidStudioProjects/NUTC.CSIE.JAVA/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jerry960331/AndroidStudioProjects/NUTC.CSIE.JAVA/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/NUTC_CSIE_C.dir

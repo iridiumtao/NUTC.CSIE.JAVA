@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0ea7b3b-8407-45fd-9783-5da62332f72a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForFun/AlarmClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/CompressionAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/MaximumElementDivisibleBy4.java" afterDir="false" />
+    <list default="true" id="d0ea7b3b-8407-45fd-9783-5da62332f72a" name="Default Changelist" comment="added some practices">
+      <change afterPath="$PROJECT_DIR$/src/ForFun/MagicNumberPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForFun/SimpleHttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utilities/TimeCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForFun/CompressionAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForFun/CompressionAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForFun/untitled6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForFun/untitled6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +44,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="add_unversioned_files" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -47,15 +53,15 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.AlarmClock">
-    <configuration name="AlarmClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Ex1">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForFun.AlarmClock" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200325Multithreading.Ex1" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForFun.*" />
+          <option name="PATTERN" value="JavaClass.Ex200325Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,14 +69,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompressionAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForFun.CompressionAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200325Multithreading.Ex2" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForFun.*" />
+          <option name="PATTERN" value="JavaClass.Ex200325Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,14 +84,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3CCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex191120ClassConception2.Ex3CCount" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200325Multithreading.Ex3" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClass.Ex191120ClassConception2.*" />
+          <option name="PATTERN" value="JavaClass.Ex200325Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,10 +99,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumElementDivisibleBy4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicNumberPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForFun.MaximumElementDivisibleBy4" />
+      <option name="MAIN_CLASS_NAME" value="ForFun.MagicNumberPractice" />
       <module name="NUTC.CSIE.JAVA" />
       <extension name="coverage">
         <pattern>
@@ -135,19 +141,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.pi" />
-      <item itemvalue="Application.Ex3CCount" />
-      <item itemvalue="Application.MaximumElementDivisibleBy4" />
+      <item itemvalue="Application.Ex1" />
+      <item itemvalue="Application.Ex2" />
+      <item itemvalue="Application.Ex3" />
+      <item itemvalue="Application.MagicNumberPractice" />
       <item itemvalue="Application.test2" />
-      <item itemvalue="Application.CompressionAlgorithm" />
-      <item itemvalue="Application.AlarmClock" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlarmClock" />
-        <item itemvalue="Application.CompressionAlgorithm" />
+        <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.test2" />
-        <item itemvalue="Application.MaximumElementDivisibleBy4" />
-        <item itemvalue="Application.Ex3CCount" />
+        <item itemvalue="Application.MagicNumberPractice" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583919653633</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added some practices">
+      <created>1584035255091</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584035255091</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,79 +272,85 @@
     <MESSAGE value="200226 course" />
     <MESSAGE value="200304 course" />
     <MESSAGE value="200311 course&#10;+some practices from hyperskill.org" />
-    <option name="LAST_COMMIT_MESSAGE" value="200311 course&#10;+some practices from hyperskill.org" />
+    <MESSAGE value="added some practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some practices" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1582690032086">
+    <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1585103885676">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1582690032086" />
+    <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585103885676" />
     <state x="653" y="211" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1582684220184" />
-    <state x="528" y="236" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582677939742">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state x="613" y="233" width="1056" height="656" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584177890158">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="528" y="236" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.956@0.23.1680.956" timestamp="1582677939742" />
-    <state x="436" y="28" width="1154" height="972" key="CommitChangelistDialog2" timestamp="1583919653329">
+    <state x="613" y="233" width="1056" height="656" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584177890158" />
+    <state x="436" y="23" width="1329" height="982" key="CommitChangelistDialog2" timestamp="1584035254852">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="436" y="28" width="1154" height="972" key="CommitChangelistDialog2/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583423558155" />
-    <state x="436" y="28" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1583919653328" />
-    <state width="1624" height="269" key="GridCell.Tab.0.bottom" timestamp="1584033312420">
+    <state x="436" y="23" width="1329" height="982" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584035254852" />
+    <state width="347" height="807" key="GridCell.Tab.0.bottom" timestamp="1585129088810">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="459" height="449" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582690051535" />
+    <state width="1638" height="343" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807096" />
     <state width="1440" height="296" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1583647402816" />
     <state width="369" height="835" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1583895972855" />
     <state width="1440" height="307" key="GridCell.Tab.0.bottom/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583582588175" />
     <state width="1440" height="200" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1583319434045" />
-    <state width="1624" height="269" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584033312420" />
-    <state width="1624" height="269" key="GridCell.Tab.0.center" timestamp="1584033312409">
+    <state width="347" height="807" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585129088810" />
+    <state width="347" height="807" key="GridCell.Tab.0.center" timestamp="1585129088808">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="459" height="449" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582690051534" />
+    <state width="1638" height="343" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807095" />
     <state width="1440" height="296" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1583647402815" />
     <state width="369" height="835" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1583895972854" />
     <state width="1440" height="307" key="GridCell.Tab.0.center/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583582588175" />
     <state width="1440" height="200" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1583319434044" />
-    <state width="1624" height="269" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584033312409" />
-    <state width="1624" height="269" key="GridCell.Tab.0.left" timestamp="1584033312372">
+    <state width="347" height="807" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585129088808" />
+    <state width="347" height="807" key="GridCell.Tab.0.left" timestamp="1585129088807">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="459" height="449" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582690051533" />
+    <state width="1638" height="343" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807094" />
     <state width="1440" height="296" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1583647402814" />
     <state width="369" height="835" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1583895972853" />
     <state width="1440" height="307" key="GridCell.Tab.0.left/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583582588174" />
     <state width="1440" height="200" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1583319434044" />
-    <state width="1624" height="269" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584033312372" />
-    <state width="1624" height="269" key="GridCell.Tab.0.right" timestamp="1584033312416">
+    <state width="347" height="807" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585129088807" />
+    <state width="347" height="807" key="GridCell.Tab.0.right" timestamp="1585129088809">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="459" height="449" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582690051534" />
+    <state width="1638" height="343" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807095" />
     <state width="1440" height="296" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1583647402816" />
     <state width="369" height="835" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1583895972854" />
     <state width="1440" height="307" key="GridCell.Tab.0.right/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583582588175" />
     <state width="1440" height="200" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1583319434045" />
-    <state width="1624" height="269" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584033312416" />
-    <state width="1624" height="297" key="GridCell.Tab.1.bottom" timestamp="1584027759125">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state width="347" height="807" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585129088809" />
+    <state width="1638" height="343" key="GridCell.Tab.1.bottom" timestamp="1585108807097">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="343" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807097" />
     <state width="1440" height="297" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1583889139578" />
-    <state width="1624" height="297" key="GridCell.Tab.1.bottom/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584027759125" />
-    <state width="1624" height="297" key="GridCell.Tab.1.center" timestamp="1584027759123">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state width="1624" height="297" key="GridCell.Tab.1.bottom/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747248" />
+    <state width="1638" height="343" key="GridCell.Tab.1.center" timestamp="1585108807096">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="343" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807096" />
     <state width="1440" height="297" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1583889139577" />
-    <state width="1624" height="297" key="GridCell.Tab.1.center/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584027759123" />
-    <state width="1624" height="297" key="GridCell.Tab.1.left" timestamp="1584027759123">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state width="1624" height="297" key="GridCell.Tab.1.center/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747246" />
+    <state width="1638" height="343" key="GridCell.Tab.1.left" timestamp="1585108807096">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="343" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807096" />
     <state width="1440" height="297" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1583889139576" />
-    <state width="1624" height="297" key="GridCell.Tab.1.left/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584027759123" />
-    <state width="1624" height="297" key="GridCell.Tab.1.right" timestamp="1584027759124">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state width="1624" height="297" key="GridCell.Tab.1.left/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747246" />
+    <state width="1638" height="343" key="GridCell.Tab.1.right" timestamp="1585108807097">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="343" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807097" />
     <state width="1440" height="297" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1583889139577" />
-    <state width="1624" height="297" key="GridCell.Tab.1.right/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584027759124" />
+    <state width="1624" height="297" key="GridCell.Tab.1.right/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747247" />
     <state x="297" y="95" key="SettingsEditor" timestamp="1583321982481">
       <screen x="0" y="23" width="1920" height="984" />
     </state>
@@ -340,13 +359,18 @@
       <screen x="0" y="23" width="1920" height="984" />
     </state>
     <state x="509" y="625" width="647" height="673" key="dock-window-1/0.23.1920.984@0.23.1920.984" timestamp="1583308918714" />
+    <state x="1318" y="259" key="extract.method.dialog" timestamp="1584087597206">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="1318" y="259" key="extract.method.dialog/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584087597206" />
     <state x="310" y="160" key="new project wizard" timestamp="1583918343448">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="310" y="160" key="new project wizard/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1583918343448" />
-    <state x="598" y="248" key="run.anything.popup" timestamp="1583918596698">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state x="523" y="241" key="run.anything.popup" timestamp="1585104315082">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="523" y="241" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585104315082" />
     <state x="598" y="248" key="run.anything.popup/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1583918596698" />
   </component>
 </project>

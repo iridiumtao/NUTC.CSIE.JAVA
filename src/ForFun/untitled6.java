@@ -1,6 +1,9 @@
 package ForFun;
 
+import Utilities.TimeCalculator;
+
 import java.util.Arrays;
+import java.util.Date;
 import java.util.Scanner;
 
     /**
@@ -15,6 +18,12 @@ public class untitled6 {
         Scanner scanner = new Scanner(System.in);
         long inputNum = Long.parseLong(scanner.next());
 
+        long start = System.currentTimeMillis( );
+        System.out.println(new Date( ) + "\n");
+
+        TimeCalculator tCal1 = new TimeCalculator();
+        //tCal1.showCurrentHHmmssSSS();
+
         int loopNum = 1;
 
         while (inputNum >= factorials(loopNum)){
@@ -22,6 +31,15 @@ public class untitled6 {
         }
 
         System.out.println(loopNum);
+
+        System.out.println(new Date( ) + "\n");
+        long end = System.currentTimeMillis( );
+        long diff = end - start;
+        System.out.println("Difference is : " + diff);
+
+        TimeCalculator tCal2 = new TimeCalculator();
+        //tCal2.showCurrentHHmmssSSS();
+        TimeCalculator.showTimeDifference(tCal1, tCal2);
     }
 
     static long factorials(long number){
