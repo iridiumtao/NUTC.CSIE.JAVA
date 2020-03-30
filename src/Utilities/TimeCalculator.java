@@ -3,8 +3,11 @@ package Utilities;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/*
+    NOT WORKING PROPERLY!!!
+ */
+
 public class TimeCalculator {
-    //NOT WORKING PROPERLY
     private Date date;
     private long timeMillis;
 
