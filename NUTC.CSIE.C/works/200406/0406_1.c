@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+    利用break及flag來讓迴圈提早結束。
+*/
+
 int main()
 {
     int a[5]={0,0,0,0,0};

@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0ea7b3b-8407-45fd-9783-5da62332f72a" name="Default Changelist" comment="200325&#10;Add something that comes from C language class">
-      <change afterPath="$PROJECT_DIR$/src/ForFun/GeneratingPasswords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex4MovingBall/BallParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex4MovingBall/DrawPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex4MovingBall/MovingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utilities/AeryTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utilities/MakeSound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utilities/SimpleCountdownTimer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jerry960331.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jerry960331.xml" afterDir="false" />
+    <list default="true" id="d0ea7b3b-8407-45fd-9783-5da62332f72a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/MovingBallTeacherVer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/NUTC_CSIE_C.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/NUTC_CSIE_C.dir/C.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/NUTC_CSIE_C.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/NUTC_CSIE_C.dir/main.c.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/NUTC_CSIE_C" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/NUTC_CSIE_C" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utilities/TimeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utilities/TimeCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,74 +49,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
       <recent name="JavaClass.Ex200325Multithreading.Ex4MovingBall.BallParameters" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MovingBall">
-    <configuration name="GeneratingPasswords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="12" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForFun.GeneratingPasswords" />
-      <module name="NUTC.CSIE.JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForFun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovingBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="12" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200325Multithreading.Ex4MovingBall.MovingBall" />
-      <module name="NUTC.CSIE.JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaClass.Ex200325Multithreading.Ex4MovingBall.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PointsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="12" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200325Multithreading.PointsEx" />
-      <module name="NUTC.CSIE.JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaClass.Ex200325Multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="12" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="JavaClass.Ex200325Multithreading.ShapeTest" />
-      <module name="NUTC.CSIE.JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaClass.Ex200325Multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.work3">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -140,30 +73,96 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.FinalExam200407.test1" />
+      <module name="NUTC.CSIE.JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass.FinalExam200407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.FinalExam200407.test2" />
       <module name="NUTC.CSIE.JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass.FinalExam200407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.FinalExam200407.test3" />
+      <module name="NUTC.CSIE.JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass.FinalExam200407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="work1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.FinalExam200407.work1" />
+      <module name="NUTC.CSIE.JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass.FinalExam200407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="work3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaClass.FinalExam200407.work3" />
+      <module name="NUTC.CSIE.JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClass.FinalExam200407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.pi" />
-      <item itemvalue="Application.GeneratingPasswords" />
-      <item itemvalue="Application.MovingBall" />
-      <item itemvalue="Application.ShapeTest" />
-      <item itemvalue="Application.PointsEx" />
+      <item itemvalue="Application.work1" />
+      <item itemvalue="Application.test1" />
       <item itemvalue="Application.test2" />
+      <item itemvalue="Application.test3" />
+      <item itemvalue="Application.work3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MovingBall" />
+        <item itemvalue="Application.work3" />
+        <item itemvalue="Application.test3" />
         <item itemvalue="Application.test2" />
-        <item itemvalue="Application.PointsEx" />
-        <item itemvalue="Application.ShapeTest" />
-        <item itemvalue="Application.GeneratingPasswords" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.work1" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585129199470</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="新增莫名其妙耗時5小時的Moving Ball">
+      <created>1585590784132</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585590784132</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +297,8 @@
     <MESSAGE value="200311 course&#10;+some practices from hyperskill.org" />
     <MESSAGE value="added some practices" />
     <MESSAGE value="200325&#10;Add something that comes from C language class" />
-    <option name="LAST_COMMIT_MESSAGE" value="200325&#10;Add something that comes from C language class" />
+    <MESSAGE value="新增莫名其妙耗時5小時的Moving Ball" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增莫名其妙耗時5小時的Moving Ball" />
   </component>
   <component name="WindowStateProjectService">
     <state x="746" y="215" key="#com.intellij.ide.util.MemberChooser" timestamp="1585586265514">
@@ -311,62 +318,75 @@
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="644" y="156" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585585826370" />
-    <state x="436" y="23" width="1329" height="982" key="CommitChangelistDialog2" timestamp="1585466261041">
-      <screen x="0" y="23" width="1920" height="986" />
+    <state x="436" y="23" width="1329" height="982" key="CommitChangelistDialog2" timestamp="1585590783539">
+      <screen x="0" y="23" width="1920" height="984" />
     </state>
     <state x="436" y="28" width="1154" height="972" key="CommitChangelistDialog2/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583423558155" />
     <state x="436" y="23" width="1329" height="982" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585129198916" />
+    <state x="436" y="23" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585590783539" />
     <state x="436" y="23" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1585466261041" />
     <state x="333" y="110" key="DiffContextDialog" timestamp="1585129137943">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="333" y="110" key="DiffContextDialog/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585129137943" />
-    <state width="1692" height="35" key="GridCell.Tab.0.bottom" timestamp="1585590711452">
-      <screen x="0" y="23" width="1920" height="984" />
+    <state width="1638" height="114" key="GridCell.Tab.0.bottom" timestamp="1586262459738">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807096" />
     <state width="1440" height="296" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1583647402816" />
-    <state width="417" height="807" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1585504434349" />
+    <state width="1638" height="31" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1586145875483" />
+    <state width="1638" height="242" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1585928473923" />
+    <state width="1638" height="32" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1585994048081" />
+    <state width="1638" height="242" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1585929770230" />
     <state width="1440" height="307" key="GridCell.Tab.0.bottom/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583582588175" />
     <state width="1440" height="200" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1583319434045" />
-    <state width="1638" height="255" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585585484144" />
-    <state width="1692" height="35" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585590711452" />
+    <state width="1638" height="114" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586262459738" />
+    <state width="1692" height="35" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585591219469" />
     <state width="1692" height="35" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1585590490275" />
     <state width="1638" height="343" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484773" />
-    <state width="1692" height="35" key="GridCell.Tab.0.center" timestamp="1585590711451">
-      <screen x="0" y="23" width="1920" height="984" />
+    <state width="1638" height="114" key="GridCell.Tab.0.center" timestamp="1586262459736">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807095" />
     <state width="1440" height="296" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1583647402815" />
-    <state width="417" height="807" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1585504434348" />
+    <state width="1638" height="31" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1586145875482" />
+    <state width="1638" height="242" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1585928473923" />
+    <state width="1638" height="32" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1585994048080" />
+    <state width="1638" height="242" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1585929770229" />
     <state width="1440" height="307" key="GridCell.Tab.0.center/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583582588175" />
     <state width="1440" height="200" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1583319434044" />
-    <state width="1638" height="255" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585585484142" />
-    <state width="1692" height="35" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585590711451" />
+    <state width="1638" height="114" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586262459736" />
+    <state width="1692" height="35" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585591219465" />
     <state width="1692" height="35" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1585590490270" />
     <state width="1638" height="343" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484772" />
-    <state width="1692" height="35" key="GridCell.Tab.0.left" timestamp="1585590711450">
-      <screen x="0" y="23" width="1920" height="984" />
+    <state width="1638" height="114" key="GridCell.Tab.0.left" timestamp="1586262459735">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807094" />
     <state width="1440" height="296" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1583647402814" />
-    <state width="417" height="807" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1585504434347" />
+    <state width="1638" height="31" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1586145875481" />
+    <state width="1638" height="242" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1585928473922" />
+    <state width="1638" height="32" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1585994048080" />
+    <state width="1638" height="242" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1585929770229" />
     <state width="1440" height="307" key="GridCell.Tab.0.left/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583582588174" />
     <state width="1440" height="200" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1583319434044" />
-    <state width="1638" height="255" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585585484141" />
-    <state width="1692" height="35" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585590711450" />
+    <state width="1638" height="114" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586262459735" />
+    <state width="1692" height="35" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585591219464" />
     <state width="1692" height="35" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1585590490268" />
     <state width="1638" height="343" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484771" />
-    <state width="1692" height="35" key="GridCell.Tab.0.right" timestamp="1585590711452">
-      <screen x="0" y="23" width="1920" height="984" />
+    <state width="1638" height="114" key="GridCell.Tab.0.right" timestamp="1586262459737">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807095" />
     <state width="1440" height="296" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1583647402816" />
-    <state width="417" height="807" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1585504434349" />
+    <state width="1638" height="31" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1586145875482" />
+    <state width="1638" height="242" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1585928473923" />
+    <state width="1638" height="32" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1585994048081" />
+    <state width="1638" height="242" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1585929770230" />
     <state width="1440" height="307" key="GridCell.Tab.0.right/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583582588175" />
     <state width="1440" height="200" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1583319434045" />
-    <state width="1638" height="255" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585585484143" />
-    <state width="1692" height="35" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585590711452" />
+    <state width="1638" height="114" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586262459737" />
+    <state width="1692" height="35" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585591219467" />
     <state width="1692" height="35" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1585590490271" />
     <state width="1638" height="343" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484773" />
     <state width="1638" height="343" key="GridCell.Tab.1.bottom" timestamp="1585157484776">
@@ -397,10 +417,11 @@
     <state width="1440" height="297" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1583889139577" />
     <state width="1624" height="297" key="GridCell.Tab.1.right/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747247" />
     <state width="1638" height="343" key="GridCell.Tab.1.right/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484775" />
-    <state x="297" y="96" key="SettingsEditor" timestamp="1585157475052">
-      <screen x="0" y="23" width="1920" height="994" />
+    <state x="304" y="96" key="SettingsEditor" timestamp="1586261563913">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="297" y="95" key="SettingsEditor/0.23.1920.984@0.23.1920.984" timestamp="1583321982481" />
+    <state x="304" y="96" key="SettingsEditor/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586261563913" />
     <state x="297" y="96" key="SettingsEditor/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157475052" />
     <state x="187" y="123" width="1534" height="784" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585590694369">
       <screen x="0" y="23" width="1920" height="986" />
@@ -424,9 +445,10 @@
     <state x="523" y="241" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585104315082" />
     <state x="598" y="248" key="run.anything.popup/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585578082547" />
     <state x="598" y="248" key="run.anything.popup/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585583571351" />
-    <state x="592" y="249" width="670" height="676" key="search.everywhere.popup" timestamp="1585588204473">
-      <screen x="0" y="23" width="1920" height="984" />
+    <state x="518" y="243" width="670" height="660" key="search.everywhere.popup" timestamp="1585924890236">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
+    <state x="518" y="243" width="670" height="660" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1585924890236" />
     <state x="592" y="249" width="670" height="676" key="search.everywhere.popup/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585588204473" />
   </component>
 </project>
