@@ -8,20 +8,14 @@ import org.apache.commons.lang3.StringUtils;
 
 public class test2 {
     public static void main(String[] args) {
-        // write your code here
-        //3x4
-        int[][] array = {{1, 2, 3, 4},
-                {4, 5, 6, 3},
-                {8, 6, 3, 1}};
+        Scanner scanner = new Scanner(System.in);
+        String input = scanner.nextLine();
+
+        double d = Double.parseDouble(input);
 
 
-        for (int i =0 ; i < 3; i++) {
-            for (int j = 0; j < 4; j++) {
-                array[i][j] = array[(i + 5) % 3][(j + 2) % 4];
-            }
-        }
+            System.out.println(String.valueOf(d));
 
-        System.out.println(Math.random()*10 % 11);
 
     }
 

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ea7b3b-8407-45fd-9783-5da62332f72a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/3.16.5/CMakeCCompiler.cmake" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/3.16.5/CMakeSystem.cmake" afterDir="false" />
@@ -10,24 +9,9 @@
       <change afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/a.out" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/Progress/1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NUTC.CSIE.C/works/pointer_notes.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/ImJustKidding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/LongestAscendingSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/CoffeeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/PlayingWithMultiDimensionalArray/CheckSudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/PlayingWithMultiDimensionalArray/HyperSkillYouSuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/PlayingWithMultiDimensionalArray/PlayingWithStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/PlayingWithMultiDimensionalArray/RotateRectangleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/SmartCalculator/SmartCalculator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/TicTacToe/TicTacToe1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/TicTacToe/TicTacToe2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/RegexValidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/SafePasswordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForFun/checkIpIsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/course/Ex191127ClassConception3/Ex3CCircleAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/Ex191023FakePokerDealing/Result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/Ex191023FakePokerDealing/Result2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
@@ -41,54 +25,7 @@
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/NUTC_CSIE_C" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/cmake-build-debug/NUTC_CSIE_C" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUTC.CSIE.C/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/NUTC.CSIE.C/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NUTC.CSIE.JAVA/JavaClass/Ex191023FakePokerDealing/Result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NUTC.CSIE.JAVA/JavaClass/Ex191023FakePokerDealing/Result2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForFun/pi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForFun/pi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex190918GuessANumber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex190918GuessANumber/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191002ForLoop/ForLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191002ForLoop/ForLoop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191002ForLoop/ForLoop3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191002ForLoop/ForLoop3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191002ForLoop/ForLoopPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191002ForLoop/ForLoopPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex1Week.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191019Week/Ex1Week.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex2Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191019Week/Ex2Month.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191019Week/Ex3Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191019Week/Ex3Year.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/FakePokerDealing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191023FakePokerDealing/FakePokerDealing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/Result.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191023FakePokerDealing/Result.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191023FakePokerDealing/Result2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191023FakePokerDealing/Result2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191113ClassConception/Ex1CRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191113ClassConception/Ex1CRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191113ClassConception/Ex2CBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191113ClassConception/Ex2CBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191113ClassConception/Ex3CCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191113ClassConception/Ex3CCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191113ClassConception/Ex4CCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191113ClassConception/Ex4CCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191120ClassConception2/Ex1CSphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191120ClassConception2/Ex1CSphere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191120ClassConception2/Ex2CRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191120ClassConception2/Ex2CRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191120ClassConception2/Ex3CCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191120ClassConception2/Ex3CCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191127ClassConception3/Ex1CCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191127ClassConception3/Ex1CCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191127ClassConception3/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191127ClassConception3/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191127ClassConception3/Ex3CCircleAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex191127ClassConception3/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex191127ClassConception3/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200226AbstractClassAndInterface/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200226AbstractClassAndInterface/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200226AbstractClassAndInterface/Ex2ClassExtendAndImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200226AbstractClassAndInterface/Ex2ClassExtendAndImplement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200226AbstractClassAndInterface/Ex3MoreInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200226AbstractClassAndInterface/Ex3MoreInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200304Package/Ex1CBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200304Package/Ex1CBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200304Package/Ex1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200304Package/Ex1Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200304Package/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200304Package/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200304Package/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200304Package/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200311ExceptionHandling/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200311ExceptionHandling/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200311ExceptionHandling/Ex2GuessingANumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200311ExceptionHandling/Ex2GuessingANumber2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex4MovingBall/BallParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/Ex4MovingBall/BallParameters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex4MovingBall/DrawPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/Ex4MovingBall/DrawPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/Ex4MovingBall/MovingBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/Ex4MovingBall/MovingBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/MovingBallTeacherVer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/MovingBallTeacherVer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/ShapeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/Ex200325Multithreading/app20_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Ex200325Multithreading/app20_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/FinalExam200407/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/FinalExam200407/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/FinalExam200407/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/FinalExam200407/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/FinalExam200407/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/FinalExam200407/test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/FinalExam200407/work1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/FinalExam200407/work1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClass/FinalExam200407/work3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/FinalExam200407/work3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/SmartCalculator/SmartCalculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForFun/PlayingWithSeries/SmartCalculator/SmartCalculator1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test3.java" afterDir="false" />
     </list>
@@ -172,21 +109,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="14" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForFun.PlayingWithSeries.TicTacToe.TicTacToe2" />
-      <module name="NUTC.CSIE.JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ForFun.PlayingWithSeries.TicTacToe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="14" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -218,6 +140,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="NUTC.CSIE.JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="14" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -228,20 +159,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SafePasswordChecker" />
-      <item itemvalue="Application.SmartCalculator1" />
-      <item itemvalue="Application.TicTacToe2" />
-      <item itemvalue="Application.checkIpIsValid" />
       <item itemvalue="Application.pi" />
+      <item itemvalue="Application.SafePasswordChecker" />
+      <item itemvalue="Application.checkIpIsValid" />
       <item itemvalue="Application.test3" />
+      <item itemvalue="Application.SmartCalculator1" />
+      <item itemvalue="Application.test2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.test3" />
         <item itemvalue="Application.SmartCalculator1" />
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.SafePasswordChecker" />
         <item itemvalue="Application.checkIpIsValid" />
-        <item itemvalue="Application.TicTacToe2" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586262531337</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="更新一下&#10;寫了很多題目&#10;新增一個C pointer的筆記&#10;調整了專案樹">
+      <created>1589097856695</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589097856695</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,7 +323,8 @@
     <MESSAGE value="200325&#10;Add something that comes from C language class" />
     <MESSAGE value="新增莫名其妙耗時5小時的Moving Ball" />
     <MESSAGE value="新增考試的題目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增考試的題目" />
+    <MESSAGE value="更新一下&#10;寫了很多題目&#10;新增一個C pointer的筆記&#10;調整了專案樹" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新一下&#10;寫了很多題目&#10;新增一個C pointer的筆記&#10;調整了專案樹" />
   </component>
   <component name="WindowStateProjectService">
     <state x="560" y="180" key="#Notifications" timestamp="1587666676879">
@@ -420,19 +359,21 @@
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="971" y="297" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586782895781" />
-    <state x="436" y="23" width="1329" height="982" key="CommitChangelistDialog2" timestamp="1586262530743">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state x="436" y="23" width="1329" height="982" key="CommitChangelistDialog2" timestamp="1589097855896">
+      <screen x="0" y="23" width="1920" height="994" />
     </state>
     <state x="436" y="28" width="1154" height="972" key="CommitChangelistDialog2/0.23.1920.982/-1440.268.1440.877@0.23.1920.982" timestamp="1583423558155" />
     <state x="436" y="23" width="1329" height="982" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586262530743" />
     <state x="436" y="23" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585590783539" />
     <state x="436" y="23" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1585466261041" />
-    <state x="333" y="110" key="DiffContextDialog" timestamp="1585129137943">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state x="436" y="23" key="CommitChangelistDialog2/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1589097855896" />
+    <state x="333" y="111" key="DiffContextDialog" timestamp="1589097727286">
+      <screen x="0" y="23" width="1920" height="994" />
     </state>
     <state x="333" y="110" key="DiffContextDialog/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1585129137943" />
-    <state width="1638" height="312" key="GridCell.Tab.0.bottom" timestamp="1588673013052">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state x="333" y="111" key="DiffContextDialog/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1589097727286" />
+    <state width="491" height="684" key="GridCell.Tab.0.bottom" timestamp="1589110261235">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807096" />
     <state width="1440" height="296" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1583647402816" />
@@ -451,10 +392,10 @@
     <state width="474" height="835" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1587834808884" />
     <state width="482" height="831" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.989@0.23.1920.989" timestamp="1588317505594" />
     <state width="482" height="831" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588251537883" />
-    <state width="483" height="831" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1588009114210" />
+    <state width="491" height="684" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589110261235" />
     <state width="482" height="831" key="GridCell.Tab.0.bottom/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1588265856366" />
-    <state width="1638" height="312" key="GridCell.Tab.0.center" timestamp="1588673013051">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="491" height="684" key="GridCell.Tab.0.center" timestamp="1589110261234">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807095" />
     <state width="1440" height="296" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1583647402815" />
@@ -473,10 +414,10 @@
     <state width="474" height="835" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1587834808882" />
     <state width="482" height="831" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.989@0.23.1920.989" timestamp="1588317505593" />
     <state width="482" height="831" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588251537882" />
-    <state width="483" height="831" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1588009114209" />
+    <state width="491" height="684" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589110261234" />
     <state width="482" height="831" key="GridCell.Tab.0.center/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1588265856364" />
-    <state width="1638" height="312" key="GridCell.Tab.0.left" timestamp="1588673013050">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="491" height="684" key="GridCell.Tab.0.left" timestamp="1589110261233">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807094" />
     <state width="1440" height="296" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1583647402814" />
@@ -495,10 +436,10 @@
     <state width="474" height="835" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1587834808882" />
     <state width="482" height="831" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.989@0.23.1920.989" timestamp="1588317505592" />
     <state width="482" height="831" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588251537881" />
-    <state width="483" height="831" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1588009114209" />
+    <state width="491" height="684" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589110261233" />
     <state width="482" height="831" key="GridCell.Tab.0.left/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1588265856364" />
-    <state width="1638" height="312" key="GridCell.Tab.0.right" timestamp="1588673013051">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="491" height="684" key="GridCell.Tab.0.right" timestamp="1589110261234">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807095" />
     <state width="1440" height="296" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1583647402816" />
@@ -517,10 +458,10 @@
     <state width="474" height="835" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1587834808883" />
     <state width="482" height="831" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.989@0.23.1920.989" timestamp="1588317505593" />
     <state width="482" height="831" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588251537882" />
-    <state width="483" height="831" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1588009114210" />
+    <state width="491" height="684" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589110261234" />
     <state width="482" height="831" key="GridCell.Tab.0.right/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1588265856365" />
-    <state width="1638" height="312" key="GridCell.Tab.1.bottom" timestamp="1588673013053">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1878" height="322" key="GridCell.Tab.1.bottom" timestamp="1589105167869">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807097" />
     <state width="1440" height="297" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1583889139578" />
@@ -528,9 +469,10 @@
     <state width="1638" height="312" key="GridCell.Tab.1.bottom/0.23.1680.966@0.23.1680.966" timestamp="1588362819781" />
     <state width="1624" height="297" key="GridCell.Tab.1.bottom/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747248" />
     <state width="1878" height="307" key="GridCell.Tab.1.bottom/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1587479788686" />
+    <state width="1878" height="322" key="GridCell.Tab.1.bottom/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589105167869" />
     <state width="1638" height="343" key="GridCell.Tab.1.bottom/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484776" />
-    <state width="1638" height="312" key="GridCell.Tab.1.center" timestamp="1588673013052">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1878" height="322" key="GridCell.Tab.1.center" timestamp="1589105167869">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807096" />
     <state width="1440" height="297" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1583889139577" />
@@ -538,9 +480,10 @@
     <state width="1638" height="312" key="GridCell.Tab.1.center/0.23.1680.966@0.23.1680.966" timestamp="1588362819780" />
     <state width="1624" height="297" key="GridCell.Tab.1.center/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747246" />
     <state width="1878" height="307" key="GridCell.Tab.1.center/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1587479788685" />
+    <state width="1878" height="322" key="GridCell.Tab.1.center/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589105167869" />
     <state width="1638" height="343" key="GridCell.Tab.1.center/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484775" />
-    <state width="1638" height="312" key="GridCell.Tab.1.left" timestamp="1588673013052">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1878" height="322" key="GridCell.Tab.1.left" timestamp="1589105167868">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807096" />
     <state width="1440" height="297" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1583889139576" />
@@ -548,9 +491,10 @@
     <state width="1638" height="312" key="GridCell.Tab.1.left/0.23.1680.966@0.23.1680.966" timestamp="1588362819780" />
     <state width="1624" height="297" key="GridCell.Tab.1.left/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747246" />
     <state width="1878" height="307" key="GridCell.Tab.1.left/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1587479788685" />
+    <state width="1878" height="322" key="GridCell.Tab.1.left/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589105167868" />
     <state width="1638" height="343" key="GridCell.Tab.1.left/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484774" />
-    <state width="1638" height="312" key="GridCell.Tab.1.right" timestamp="1588673013053">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1878" height="322" key="GridCell.Tab.1.right" timestamp="1589105167869">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state width="1638" height="343" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585108807097" />
     <state width="1440" height="297" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1583889139577" />
@@ -558,9 +502,10 @@
     <state width="1638" height="312" key="GridCell.Tab.1.right/0.23.1680.966@0.23.1680.966" timestamp="1588362819781" />
     <state width="1624" height="297" key="GridCell.Tab.1.right/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1584870747247" />
     <state width="1878" height="307" key="GridCell.Tab.1.right/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1587479788686" />
+    <state width="1878" height="322" key="GridCell.Tab.1.right/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589105167869" />
     <state width="1638" height="343" key="GridCell.Tab.1.right/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157484775" />
-    <state x="386" y="178" width="931" height="722" key="SettingsEditor" timestamp="1588432009017">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state x="904" y="100" width="931" height="722" key="SettingsEditor" timestamp="1589107987664">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state x="266" y="95" key="SettingsEditor/0.23.1680.963@0.23.1680.963" timestamp="1586310746702" />
     <state x="386" y="178" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1588432009017" />
@@ -570,18 +515,24 @@
     <state x="304" y="96" key="SettingsEditor/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586689613614" />
     <state x="304" y="97" key="SettingsEditor/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1586424483080" />
     <state x="683" y="182" width="1063" height="722" key="SettingsEditor/1920.336.1440.877/0.23.1920.989@0.23.1920.989" timestamp="1587914712977" />
+    <state x="904" y="100" key="SettingsEditor/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589107987664" />
     <state x="297" y="96" key="SettingsEditor/1920.336.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1585157475052" />
     <state x="187" y="123" width="1534" height="781" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586799337273">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="187" y="123" width="1534" height="781" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1586799337273" />
     <state x="187" y="123" width="1534" height="784" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1585590694369" />
-    <state x="636" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588359000367">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state x="503" y="128" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589107949167">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="503" y="128" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589107949167" />
+    <state x="727" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589107753272">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state x="636" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.966@0.23.1680.966" timestamp="1588359000367" />
     <state x="727" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1588049575216" />
     <state x="727" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.336.1440.877/0.23.1920.989@0.23.1920.989" timestamp="1587982478829" />
+    <state x="727" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589107753272" />
     <state x="509" y="625" width="647" height="673" key="dock-window-1" timestamp="1583308918714">
       <screen x="0" y="23" width="1920" height="984" />
     </state>
@@ -598,8 +549,8 @@
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="310" y="160" key="new project wizard/1920.336.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1583918343448" />
-    <state x="598" y="248" key="run.anything.popup" timestamp="1587731401260">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state x="598" y="250" key="run.anything.popup" timestamp="1589110737691">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state x="523" y="241" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585104315082" />
     <state x="598" y="248" key="run.anything.popup/1920.313.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586628764446" />
@@ -608,8 +559,9 @@
     <state x="598" y="248" key="run.anything.popup/1920.336.1440.877/0.23.1920.986@0.23.1920.986" timestamp="1586628988349" />
     <state x="598" y="248" key="run.anything.popup/1920.336.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1587029930634" />
     <state x="598" y="248" key="run.anything.popup/1920.336.1440.877/0.23.1920.989@0.23.1920.989" timestamp="1587316007804" />
-    <state x="518" y="244" width="671" height="666" key="search.everywhere.popup" timestamp="1588432097487">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state x="598" y="250" key="run.anything.popup/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589110737691" />
+    <state x="600" y="253" width="767" height="685" key="search.everywhere.popup" timestamp="1589107975119">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state x="518" y="243" width="670" height="660" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1585924890236" />
     <state x="518" y="244" width="671" height="666" key="search.everywhere.popup/0.23.1680.965@0.23.1680.965" timestamp="1588432097487" />
@@ -618,5 +570,6 @@
     <state x="592" y="249" width="670" height="676" key="search.everywhere.popup/1920.336.1440.877/0.23.1920.984@0.23.1920.984" timestamp="1585588204473" />
     <state x="592" y="250" width="766" height="680" key="search.everywhere.popup/1920.336.1440.877/0.23.1920.989@0.23.1920.989" timestamp="1587982471648" />
     <state x="592" y="250" width="766" height="683" key="search.everywhere.popup/1920.336.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588247973290" />
+    <state x="600" y="253" width="767" height="685" key="search.everywhere.popup/1920.336.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1589107975119" />
   </component>
 </project>
