@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+void main() {
     int mask = 0;
     printf("Please the number of masks.\n");
     scanf("%d", &mask);
